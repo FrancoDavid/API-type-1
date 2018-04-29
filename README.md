@@ -1,2 +1,2 @@
 # API-type-1
-API REST con NodeJS y MySQL
+API REST con NodeJS(Express) y MySQL
